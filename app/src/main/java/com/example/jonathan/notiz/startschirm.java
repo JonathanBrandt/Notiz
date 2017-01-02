@@ -26,7 +26,7 @@ import java.util.Arrays;
 import java.util.regex.Pattern;
 
 public class startschirm extends AppCompatActivity {
-
+    String testtesttest;
     public static int titelPlatz;
     String FILENAME_titel = "Titel";
     String titel_ganz;
@@ -131,4 +131,3 @@ public class startschirm extends AppCompatActivity {
             return super.onOptionsItemSelected(item);
         }
     }
-ydgyzyazysz
